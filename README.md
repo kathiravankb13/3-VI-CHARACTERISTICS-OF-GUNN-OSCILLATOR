@@ -1,4 +1,7 @@
-# 3-VI-CHARACTERISTICS-OF-GUNN-OSCILLATOR
+
+
+# EX3-VI-CHARACTERISTICS-OF-GUNN-OSCILLATOR
+
 
 **Aim:**
 
@@ -17,7 +20,8 @@ Gunn power supply, Gunn oscillator, PIN modulator, Isolator, Frequency Meter, Va
 The Gunn oscillator is base on negative differential conductivity effect in bulk semi- conductors. Gunn diode has two conduction bands separated by an energy gap (greater than thermal agitation energies). When an electron is moved to the satellite energy band, it will have negative differentialmobility. This produces the negative resistance required for the oscillations.
 In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this case the oscillationfrequency is determined by cavity dimension than by diode itself. Although Gunn oscillator can be amplitude-modulated with the bias voltage, separate PIN modulator through is used in this experiment. A square wave modulating signal is applied through the modulator on to the microwave carrier signal.
 
-<img width="445" height="304" alt="image" src="https://github.com/user-attachments/assets/42d87349-4aa0-4730-bb70-9b4897411b7d" />
+<img width="684" height="402" alt="image" src="https://github.com/user-attachments/assets/afc263bf-72dd-4f3b-8722-0975f2e6b009" />
+
 
 **Procedure:**
 
@@ -53,13 +57,16 @@ In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this cas
 
 *Note: After tuning the Gunn source, the procedure for VSWR & Impedance measurement depthof PIN modulator.*
 
-**B.Observation: ( Include your own Table relevant to the Experiment)** (Include Tabulation Part)
+**B.Observation:
+![WhatsApp Image 2025-11-11 at 15 29 53_9d74c0a1](https://github.com/user-attachments/assets/eb23b311-a82d-43e2-9b08-18c7c600f35b)
 
 **C.Analysis of Results: (Write your own)**
 
-(Include sample calculations/Display/plot/typical graph)
+![WhatsApp Image 2025-11-11 at 15 29 54_2c10114e](https://github.com/user-attachments/assets/b904af47-20ef-45e3-b2e0-42f384317dac)
 
-**D.Conclusions: (Write  your Own)**
+
+**D.Conclusions: 
+The I-V characteristics of the Gunn diode were Succesfully studied, confuming the negative reistance region essential for microwane oscillation. This experiment demonstrate the working principles of gunn oscillators and PIN modulator used in microwave communication system.
 
 **Precautions:**
 
@@ -69,3 +76,5 @@ In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this cas
 
 **Result:**
 
+
+Thus the  I-V characteristics of Gunn Diode is found 
